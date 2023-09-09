@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main(){ 
     int numero, linhas, metade, i, j, z, contador1, contador2;
     char letra;
 
@@ -15,7 +15,7 @@ int main(){
         printf("Erro");
     }
 
-    //SE O NÚMERO DE LINHAS FOR PAR
+    //SE O NÚMERO DE LINHAS FOR PAR TESTE
     if (linhas %2 == 0)
     {   
         //PARTE SUPERIOR
