@@ -15,7 +15,7 @@ int main(){
         printf("Erro");
     }
 
-    //SE O NÚMERO DE LINHAS FOR PAR TESTE
+    //SE O NÚMERO DE LINHAS FOR PAR
     if (linhas %2 == 0)
     {   
         //PARTE SUPERIOR
