@@ -10,7 +10,6 @@ int main(){
         printf ("n deve estar entre o intervalo 0<n<50 e m entre 0<m<50");
     }
     
-
     n_de_elementos = m + n;
     int conj_universo[9];
 
@@ -18,7 +17,6 @@ int main(){
     {
         conj_universo[i] = 0;
     }
-    
 
     for(i=0; i < n_de_elementos; i++)
     {
